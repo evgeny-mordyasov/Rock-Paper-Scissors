@@ -48,9 +48,9 @@ class RandomNumberGenerate
     *
     *
     * Number		Number of dropouts		Probability of falling out		Inaccuracy
-    *   1				    31							0,31					0,02
-    *   2					33							0,33					0,00
-    *   3					36							0,36					0,03
+    *   1				    31						0,31					   0,02
+    *   2					33						0,33					   0,00
+    *   3					36						0,36					   0,03
     */
 
     private static void print()
